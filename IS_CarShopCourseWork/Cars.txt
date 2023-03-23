@@ -1,0 +1,7 @@
+00001 Volkswagen Jetta 20000 1
+00002 Volkswagen Passat 1500 8
+34653 Skoda Octavia 6000 3
+54678 Kia Rio 7000 5
+77777 Rolse_Royce Spectre 1e+06 1
+34643 Mazda 5 5000 2
+23563 Tyota Camry 8000 1

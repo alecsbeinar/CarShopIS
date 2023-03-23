@@ -1,0 +1,9 @@
+.vs/
+*/bin/
+*/obj/
+*x64/
+*x32/
+*Debug/
+./packages/
+ClassDiagram.png
+*.vcxproj*
